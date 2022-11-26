@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmadmuazam0
+- 👋 Hi, I’m Ahmad Muazam. I've bachelor's in Mechatronics Engineering.
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning Embedded Linux 
 - 💞️ I’m looking to collaborate on firmware devlopment and product designing
